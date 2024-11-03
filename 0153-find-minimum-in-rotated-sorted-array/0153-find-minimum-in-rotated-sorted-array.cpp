@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
 public:
     int findMin(vector<int>& nums) {
         int low=0;
