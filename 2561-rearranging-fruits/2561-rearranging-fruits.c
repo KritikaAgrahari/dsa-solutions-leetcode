@@ -1,5 +1,6 @@
 //KRITIKA AGRAHARI CH.SC.U4CSE23061
 typedef struct {
+
     int key;    // fruit value
     int value;  // frequency difference
 } HashMapItem;
