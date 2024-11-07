@@ -9,6 +9,7 @@ public:
             } else {
                 load += weights[i];  // Accumulate the load
             }
+            
         }
         return days;
     }
