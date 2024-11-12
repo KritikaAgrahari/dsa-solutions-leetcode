@@ -1,4 +1,4 @@
-class Solution { //The O(log₁₀(x)) time complexity is already the most optimal for this problem because you have to process a certain number of digits to determine whether x is a palindrome.The space complexity is O(1) because we only use a few integer variables
+class Solution { 
 public:
     bool isPalindrome(int x) {
         // If x is negative or ends in 0 (but isn't 0), it's not a palindrome
