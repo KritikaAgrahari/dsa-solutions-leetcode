@@ -1,11 +1,11 @@
 class Solution {
 public:
+
     int findPeakElement(vector<int>& nums) {
         int n = nums.size();
         if (n == 1) return 0; // Return the index of the single element
         if (nums[0] > nums[1]) return 0; // Return the index
         if (nums[n - 1] > nums[n - 2]) return n - 1; // Return the index
-
         int low = 1;
         int high = n - 2;
 
