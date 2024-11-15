@@ -1,5 +1,4 @@
 class Solution {
-// dutch national flag algorithm has been used
 public:
     void sortColors(vector<int>& nums) {
         int n=nums.size();
