@@ -27,7 +27,6 @@ public:
                 maxright=height[right];
                 else
                 res +=maxright -height[right];
-
                 right --;
             }
         }
