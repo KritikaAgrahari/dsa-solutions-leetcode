@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //tc 0(n)
 public:
     bool checkIfPangram(string sentence) {
         vector<int>arr(26,0);
