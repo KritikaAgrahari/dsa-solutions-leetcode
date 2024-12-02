@@ -1,4 +1,5 @@
 class Solution {
+
 public:
     string countAndSay(int n) {
         // Base case: If n is 1, the sequence is just "1"
