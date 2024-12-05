@@ -4,6 +4,7 @@ public:
          bool increasing = true, decreasing = true;  // Flags to check if the array is increasing or decreasing
         int n = nums.size();  // Get the size of the array
 
+        
         // Traverse the array from index 1 (the second element) to the end
         for (int i = 1; i < n; ++i) {
             
