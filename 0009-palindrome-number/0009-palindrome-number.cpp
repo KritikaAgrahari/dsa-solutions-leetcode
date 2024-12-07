@@ -4,6 +4,7 @@ public:
         // If x is negative or ends in 0 (but isn't 0), it's not a palindrome
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
+            
         }
 
         int reversedHalf = 0;
