@@ -1,4 +1,5 @@
 class Solution {
+
 public:
 static bool comparator(int &a, int &b){
     return a%2 < b%2;
