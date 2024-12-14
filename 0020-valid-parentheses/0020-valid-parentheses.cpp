@@ -1,4 +1,5 @@
 class Solution {
+
 public:
     // The time complexity of the current solution is O(N)
     bool isValid(string s) {
