@@ -18,6 +18,7 @@ public:
     }
 
 private:
+
     void recursion(TreeNode* root, int level, vector<int>& res) { // Pass res by reference
         if (root == NULL) return;
         if (res.size() == level) 
