@@ -2,16 +2,19 @@ class Solution {
 public:
     long long minimumSteps(string s) {
         int n= s.length();
-        int count=0;
-        sort(s.begin(),s.end());
-        int result=0;
+        int black=0;
+        
+        long long swap=0;
         for (int i=0; i<=n; i++){
-            if (s[i]==1){
-                count++;
+            if (s[i]=='0'){
+                swap += black;
 
             }
-            result = result+count;
+            else{
+                black++;
+            }
+            
         }
-        return result;
+        return swap;
     }
 };
