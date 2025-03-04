@@ -16,7 +16,7 @@ int isVowel(char c){
              i++;
             j--;
             }
-            else if(!isVowel(s[i])){
+            else if(!isVowel(s[i])){ //in case if i is vowel dont move it
             i++;
             
             }
