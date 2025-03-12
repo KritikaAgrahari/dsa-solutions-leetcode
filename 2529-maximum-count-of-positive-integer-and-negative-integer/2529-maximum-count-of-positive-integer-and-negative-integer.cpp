@@ -14,7 +14,8 @@ public:
 
         }
                 
-        return (countp>countn) ? countp : countn;
+        // return (countp>countn) ? countp : countn;
+        return max(countp, countn);
 
     }
 };
