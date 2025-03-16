@@ -3,13 +3,13 @@ public:
     typedef long long ll;
 
     bool isPossible(vector<int>& ranks, ll mid, int cars) {
-        ll carsFixed = 0;
+        ll carscount = 0;
 
         for(int i = 0; i < ranks.size(); i++) {
-            carsFixed += sqrt(mid/ranks[i]); //ignoring this
+            carscount += sqrt(mid/ranks[i]); //ignoring this
         }
 
-        return carsFixed >= cars;
+        return carscount >= cars;
 
     }
 
