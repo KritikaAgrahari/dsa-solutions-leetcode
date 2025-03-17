@@ -7,7 +7,7 @@ public:
         int secondindex=0;
         if(s1==s2) return true;
         for (int i=0; i<n; i++){
-            if (s1[i]!=s2[i]) 
+            if (s1[i]!=s2[i]) {
                  diffcount++;
             
         if (diffcount>2){
@@ -20,7 +20,7 @@ public:
                         secondindex=i;
         }
         }
-        
+        }
 return s1[firstindex]==s2[secondindex] && s1[secondindex]==s2[firstindex];
         
     }
