@@ -1,10 +1,20 @@
+// class Solution {
+// public:
+//     long long minEnd(int n, int x) {
+//         long long number=x;
+//         for (int i=1; i<n;i++){
+//             number=(number+1) | x; 
+//         }
+//         return number;
+//     }
+// };
+
+
+
+
 class Solution {
 public:
     long long minEnd(int n, int x) {
-        long long number=x;
-        for (int i=1; i<n;i++){
-            number=(number+1) | x; 
-        }
-        return number;
+        return x | ((long long)(n - 1));
     }
 };
