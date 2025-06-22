@@ -13,7 +13,7 @@ public:
         if (mp[0] % 2 != 0) return false;
 
         // Check pairs of remainders
-        for (int rem = 1; rem < k/2; rem++) {
+        for (int rem = 1; rem < k; rem++) {
             if (mp[rem] != mp[k - rem]) return false;
         }
 
