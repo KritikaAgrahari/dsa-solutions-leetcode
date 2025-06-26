@@ -7,11 +7,7 @@ private:
     stack<int> minStack;  // Auxiliary stack to keep track of minimums
 
 public:
-    // Constructor: Initializes the object
-    MinStack() {
-        // No initialization logic needed for empty stacks
-    }
-
+    
     // Pushes the element 'val' onto the stack
     void push(int val) {
         s.push(val); // Push the value into the main stack
