@@ -1,4 +1,7 @@
 class Solution {
+
+    //s[(i+1)%n]-points to 0 index as circular array
+    //tc = O(n)
 public:
     int maxAdjacentDistance(vector<int>& nums) {
         int n=nums.size();
