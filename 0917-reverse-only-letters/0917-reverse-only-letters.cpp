@@ -5,19 +5,21 @@ public:
 
         while (left < right) {
             // Skip non-letter characters from the left
-            while (left < right && !isalpha(s[left])) {
+            if (left < right && !isalpha(s[left])) {
                 left++;
             }
 
             // Skip non-letter characters from the right
-            while (left < right && !isalpha(s[right])) {
+            else if  (left < right && !isalpha(s[right])) {
                 right--;
             }
 
             // Swap the letters
+            else{
             swap(s[left], s[right]);
             left++;
             right--;
+            }
         }
 
         return s;
