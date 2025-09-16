@@ -20,10 +20,10 @@ public:
                 result.pop_back(); // Remove last element because it will be merged
                 int LCM = (prev / GCD) * curr; // Compute LCM carefully to avoid overflow
 
-                num = LCM; // Replace num with the merged LCM value and recheck with previous elements
+                num = LCM; 
             }
 
-            result.push_back(num); // Push the (possibly merged) number into result
+            result.push_back(num); 
         }
 
         return result; // Return the final vector after all merges
