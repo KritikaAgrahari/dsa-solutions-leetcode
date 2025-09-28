@@ -46,32 +46,67 @@
 //     }
 // };
 
+// class Solution {
+//   public:
+//     string longestPalindrome(string &s) {
+//         int n = s.size();
+//         if (n == 0) return "";
+        
+//         int start = 0, maxLen = 1;
+
+//         auto expand = [&](int l, int r) {
+//             while (l >= 0 && r < n && s[l] == s[r]) {
+//                 int len = r - l + 1;
+//                 if (len > maxLen) {
+//                     maxLen = len;
+//                     start = l;
+//                 }
+//                 l--;
+//                 r++;
+//             }
+//         };
+
+//         for (int i = 0; i < n; i++) {
+//             expand(i, i);     // Odd-length palindrome
+//             expand(i, i + 1); // Even-length palindrome
+//         }
+
+//         return s.substr(start, maxLen);
+//     }
+// };
+
+
+
 class Solution {
   public:
     string longestPalindrome(string &s) {
-        int n = s.size();
-        if (n == 0) return "";
-        
-        int start = 0, maxLen = 1;
+        int n = s.length();
+    int start = 0, maxLen = 1;
 
-        auto expand = [&](int l, int r) {
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                int len = r - l + 1;
-                if (len > maxLen) {
-                    maxLen = len;
-                    start = l;
+    for (int i = 0; i < n; i++) {
+
+        // this runs two times for both odd and even 
+        // length palindromes. 
+        // j = 0 means odd and j = 1 means even length
+        for (int j = 0; j <= 1; j++) {
+            int low = i;
+            int high = i + j; 
+
+            // expand substring while it is a palindrome
+            // and in bounds
+            while (low >= 0 && high < n && s[low] == s[high]) 
+            {
+                int currLen = high - low + 1;
+                if (currLen > maxLen) {
+                    start = low;
+                    maxLen = currLen;
                 }
-                l--;
-                r++;
+                low--;
+                high++;
             }
-        };
-
-        for (int i = 0; i < n; i++) {
-            expand(i, i);     // Odd-length palindrome
-            expand(i, i + 1); // Even-length palindrome
         }
+    }
 
         return s.substr(start, maxLen);
     }
 };
-
