@@ -1,9 +1,6 @@
 # Write your MySQL query statement below
--- col same-inner join
--- left join-left side and all rows
--- left+right=full join
+select p.firstName,p.lastName,a.city, a.state
+from person p
+left join address a 
 
-SELECT  p.firstname,p.lastname,a.city,a.state
-FROM Person p
-LEFT JOIN Address a
-ON p.personId=a.personId
+on p.personID = a.personId
