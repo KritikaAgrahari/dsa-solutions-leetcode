@@ -49,3 +49,15 @@ To get the most out of this repository, we recommend:
 1. Clone the repository:
    ```bash
    git clone https://github.com/KritikaAgrahari/LeetCode-DSA-Solutions.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
+<!---LeetCode Topics End-->
