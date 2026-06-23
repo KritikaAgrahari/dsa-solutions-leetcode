@@ -55,6 +55,7 @@ To get the most out of this repository, we recommend:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -87,6 +88,7 @@ To get the most out of this repository, we recommend:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -128,4 +130,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
