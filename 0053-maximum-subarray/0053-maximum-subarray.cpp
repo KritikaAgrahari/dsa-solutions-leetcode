@@ -1,26 +1,14 @@
-#include <vector>
-#include <climits>
-
-using namespace std;
-
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        long long maxi = LLONG_MIN; // Initialize to the smallest value
-        long long sum = 0;
-        int n = nums.size();
+        int currentSum = nums[0];
+        int maxSum = nums[0];
 
-        for (int i = 0; i < n; i++) {
-            sum += nums[i]; // Add current element to the sum
-            
-            if (sum > maxi) { 
-                maxi = sum; // Update maximum if the current sum is greater
-            }
-            
-            if (sum < 0) { 
-                sum = 0; // Reset sum to zero if it becomes negative
-            }
+        for (int i = 1; i < nums.size(); i++) {
+            currentSum = max(nums[i], currentSum + nums[i]);
+            maxSum = max(maxSum, currentSum);
         }
-        return maxi; // Return the maximum subarray sum
+
+        return maxSum;
     }
 };
