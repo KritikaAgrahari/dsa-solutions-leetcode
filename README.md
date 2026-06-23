@@ -74,6 +74,7 @@ To get the most out of this repository, we recommend:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -98,6 +99,7 @@ To get the most out of this repository, we recommend:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -105,6 +107,7 @@ To get the most out of this repository, we recommend:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
