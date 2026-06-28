@@ -138,4 +138,5 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0585-investments-in-2016](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0585-investments-in-2016/) | Medium |
+| [0608-tree-node](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0608-tree-node/) | Medium |
 <!---LeetCode Topics End-->
