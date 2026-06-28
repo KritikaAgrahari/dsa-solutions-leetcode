@@ -134,4 +134,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0585-investments-in-2016](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0585-investments-in-2016/) | Medium |
 <!---LeetCode Topics End-->
