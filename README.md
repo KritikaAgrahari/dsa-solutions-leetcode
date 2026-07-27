@@ -66,6 +66,7 @@ To get the most out of this repository, we recommend:
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -145,12 +146,15 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
