@@ -40,12 +40,16 @@ public:
         mp[node] = clone;
 
         // Clone all neighboring nodes
-        for (Node* neighbor : node->neighbors) {
+        // Traverse all neighbors using index
+for (int i = 0; i < node->neighbors.size(); i++) {
 
-            // Clone the neighbor and add it to clone's neighbors
-            clone->neighbors.push_back(dfs(neighbor));
-        }
+    // Get the current neighbor
+    Node* neighbor = node->neighbors[i];
 
+    // Clone the neighbor (if not already cloned)
+    // and add it to the cloned node's neighbors
+    clone->neighbors.push_back(dfs(neighbor));
+}
         // Return cloned node
         return clone;
     }
