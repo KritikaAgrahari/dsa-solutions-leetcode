@@ -150,6 +150,7 @@ To get the most out of this repository, we recommend:
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ To get the most out of this repository, we recommend:
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,8 +169,17 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
