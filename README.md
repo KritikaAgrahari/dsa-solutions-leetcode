@@ -85,6 +85,7 @@ To get the most out of this repository, we recommend:
 | [0013-roman-to-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -99,6 +100,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0015-3sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
