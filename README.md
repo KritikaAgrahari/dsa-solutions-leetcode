@@ -68,6 +68,7 @@ To get the most out of this repository, we recommend:
 | [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ To get the most out of this repository, we recommend:
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
