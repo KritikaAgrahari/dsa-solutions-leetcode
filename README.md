@@ -87,6 +87,7 @@ To get the most out of this repository, we recommend:
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -104,6 +105,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0015-3sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -240,4 +242,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
