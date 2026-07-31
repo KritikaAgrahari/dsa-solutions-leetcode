@@ -108,6 +108,7 @@ To get the most out of this repository, we recommend:
 | [0015-3sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -129,6 +130,7 @@ To get the most out of this repository, we recommend:
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0141-linked-list-cycle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -258,5 +260,6 @@ To get the most out of this repository, we recommend:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
