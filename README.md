@@ -111,6 +111,7 @@ To get the most out of this repository, we recommend:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -254,4 +255,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
