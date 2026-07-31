@@ -85,6 +85,7 @@ To get the most out of this repository, we recommend:
 | [0013-roman-to-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
@@ -120,6 +121,7 @@ To get the most out of this repository, we recommend:
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
@@ -213,9 +215,14 @@ To get the most out of this repository, we recommend:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
