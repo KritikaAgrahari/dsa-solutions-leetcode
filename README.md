@@ -81,11 +81,13 @@ To get the most out of this repository, we recommend:
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -182,4 +184,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
