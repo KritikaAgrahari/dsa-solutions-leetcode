@@ -226,6 +226,7 @@ To get the most out of this repository, we recommend:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
