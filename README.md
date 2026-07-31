@@ -67,6 +67,7 @@ To get the most out of this repository, we recommend:
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -222,6 +223,7 @@ To get the most out of this repository, we recommend:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
