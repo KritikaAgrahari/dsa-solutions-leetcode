@@ -61,6 +61,7 @@ To get the most out of this repository, we recommend:
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -206,6 +207,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
