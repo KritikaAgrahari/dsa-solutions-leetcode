@@ -152,6 +152,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ To get the most out of this repository, we recommend:
 | [0066-plus-one](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -248,4 +250,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
