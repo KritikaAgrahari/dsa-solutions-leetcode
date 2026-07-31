@@ -77,6 +77,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
@@ -211,6 +212,7 @@ To get the most out of this repository, we recommend:
 | [0013-roman-to-integer](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
