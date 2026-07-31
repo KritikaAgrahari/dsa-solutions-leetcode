@@ -177,6 +177,7 @@ To get the most out of this repository, we recommend:
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
@@ -185,6 +186,7 @@ To get the most out of this repository, we recommend:
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Matrix
@@ -264,4 +266,12 @@ To get the most out of this repository, we recommend:
 | [0021-merge-two-sorted-lists](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
