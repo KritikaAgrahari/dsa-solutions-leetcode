@@ -1,47 +1,64 @@
 class Solution {
 public:
+    string decodeString(string s) {
 
-    int idx = 0;   // Global index to keep track of the current position in the string
+        stack<int> numberStack;      // Stores repeat numbers
+        stack<char> stringStack;     // Stores characters
 
-    string helper(string &s) {   // Recursive function to decode the string
+        int num = 0;
 
-        string ans = "";         // Stores the decoded string of the current bracket
-        int num = 0;             // Stores the repeat number before '['
+        for (int i = 0; i < s.size(); i++) {
 
-        while (idx < s.size()) { // Traverse the string until the end
-
-            if (isalpha(s[idx])) {      // If current character is a letter
-                ans += s[idx];          // Add the letter directly to the answer
+            if (isdigit(s[i])) {     // If digit, build the complete number
+                num = num * 10 + (s[i] - '0');
             }
 
-            else if (isdigit(s[idx])) { // If current character is a digit
-                num = num * 10 + (s[idx] - '0'); // Build the complete number (handles 12, 123, etc.)
+            else if (s[i] == '[') {  // Save number and '['
+                numberStack.push(num);
+                stringStack.push('[');
+                num = 0;
             }
 
-            else if (s[idx] == '[') {   // Found an opening bracket
+            else if (isalpha(s[i])) { // Push letters
+                stringStack.push(s[i]);
+            }
 
-                idx++;                  // Move to the first character inside '['
+            else if (s[i] == ']') {   // Decode when ']' is found
 
-                string temp = helper(s); // Recursively decode everything inside the brackets
+                string temp = "";
 
-                for (int i = 0; i < num; i++) { // Repeat the decoded string 'num' times
-                    ans += temp;
+                // Pop until '['
+                while (stringStack.top() != '[') {
+                    temp = stringStack.top() + temp;
+                    stringStack.pop();
                 }
 
-                num = 0;                // Reset the repeat count for the next use
-            }
+                stringStack.pop();      // Remove '['
 
-            else if (s[idx] == ']') {   // Found the closing bracket
-                return ans;             // Return the decoded string to the previous recursive call
-            }
+                int repeat = numberStack.top();
+                numberStack.pop();
 
-            idx++;                      // Move to the next character
+                string repeated = "";
+
+                for (int j = 0; j < repeat; j++) {
+                    repeated += temp;
+                }
+
+                // Push repeated string back character by character
+                for (int j = 0; j < repeated.size(); j++) {
+                    stringStack.push(repeated[j]);
+                }
+            }
         }
 
-        return ans;                     // Return the final decoded string
-    }
+        // Build final answer
+        string ans = "";
 
-    string decodeString(string s) {     // Main function called by LeetCode
-        return helper(s);               // Start decoding from index 0
+        while (!stringStack.empty()) {
+            ans = stringStack.top() + ans;
+            stringStack.pop();
+        }
+
+        return ans;
     }
 };
