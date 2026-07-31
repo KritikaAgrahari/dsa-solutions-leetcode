@@ -92,6 +92,7 @@ To get the most out of this repository, we recommend:
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -111,6 +112,7 @@ To get the most out of this repository, we recommend:
 | [0141-linked-list-cycle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
