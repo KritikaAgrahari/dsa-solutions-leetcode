@@ -60,6 +60,7 @@ To get the most out of this repository, we recommend:
 | [0035-search-insert-position](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -104,6 +105,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0015-3sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
