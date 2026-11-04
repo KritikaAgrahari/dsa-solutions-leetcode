@@ -74,6 +74,7 @@ To get the most out of this repository, we recommend:
 | [0724-find-pivot-index](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1260-shift-2d-grid](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
@@ -155,6 +156,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0067-add-binary/) | Easy |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1260-shift-2d-grid](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1260-shift-2d-grid](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
