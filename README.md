@@ -98,6 +98,7 @@ To get the most out of this repository, we recommend:
 | [0344-reverse-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ To get the most out of this repository, we recommend:
 | [0202-happy-number](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -144,6 +146,7 @@ To get the most out of this repository, we recommend:
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
@@ -151,6 +154,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
