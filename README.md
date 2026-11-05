@@ -64,6 +64,7 @@ To get the most out of this repository, we recommend:
 | [0066-plus-one](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -175,6 +176,7 @@ To get the most out of this repository, we recommend:
 | [0053-maximum-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
