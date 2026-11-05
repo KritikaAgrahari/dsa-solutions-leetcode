@@ -67,6 +67,7 @@ To get the most out of this repository, we recommend:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -83,6 +84,7 @@ To get the most out of this repository, we recommend:
 | [0035-search-insert-position](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0704-binary-search/) | Easy |
 ## String
@@ -153,6 +155,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Simulation
@@ -265,6 +268,7 @@ To get the most out of this repository, we recommend:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
