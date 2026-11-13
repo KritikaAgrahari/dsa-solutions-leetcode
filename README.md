@@ -104,6 +104,7 @@ To get the most out of this repository, we recommend:
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
