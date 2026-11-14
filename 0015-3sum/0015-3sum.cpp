@@ -1,39 +1,49 @@
+
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> result;
-        sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < nums.size() - 2; i++) {
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue; 
+        if(nums.size() < 3)                 // Check minimum size
+            return {};
 
-            int left = i + 1;
-            int right = nums.size() - 1;
+        vector<vector<int>> result;         // Store triplets
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+        sort(nums.begin(), nums.end());     // Sort the array
 
-                if (sum == 0) {
-                    result.push_back({nums[i], nums[left], nums[right]});
+        for(int i = 0; i < nums.size() - 2; i++) { // Fix first element
 
-                    while (left < right && nums[left] == nums[left + 1])
-                        left++;
-                    while (left < right && nums[right] == nums[right - 1])
-                        right--;
+            if(i != 0 && nums[i] == nums[i-1]) {   // Skip duplicates
+                continue;
+            }
 
-                    left++;
-                    right--;
-                }
-                else if (sum < 0) {
-                    left++;
-                }
+            int j = i + 1;                  // Second pointer
+            int k = nums.size() - 1;         // Third pointer
+
+            int target = -nums[i];          // Required target sum
+
+            while(j < k) {                  // Two pointer approach
+
+                if(nums[j] + nums[k] > target)
+                    k--;                    // Decrease sum
+
+                else if(nums[j] + nums[k] < target)
+                    j++;                    // Increase sum
+
                 else {
-                    right--;
+                    result.push_back({-target, nums[j], nums[k]}); // Store triplet
+
+                    while(j < k && nums[j] == nums[j+1])
+                        j++;                // Skip duplicate elements
+
+                    while(j < k && nums[k] == nums[k-1])
+                        k--;                // Skip duplicate elements
+
+                    j++;                    // Move left pointer
+                    k--;                    // Move right pointer
                 }
             }
         }
 
-        return result;
+        return result;                      // Return result
     }
 };
