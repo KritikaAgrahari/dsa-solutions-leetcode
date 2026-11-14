@@ -140,6 +140,7 @@ To get the most out of this repository, we recommend:
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +265,7 @@ To get the most out of this repository, we recommend:
 | [0189-rotate-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
