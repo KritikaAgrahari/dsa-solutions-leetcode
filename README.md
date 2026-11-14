@@ -304,6 +304,7 @@ To get the most out of this repository, we recommend:
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
