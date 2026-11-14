@@ -77,6 +77,7 @@ To get the most out of this repository, we recommend:
 | [0724-find-pivot-index](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1002-find-common-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -104,6 +105,7 @@ To get the most out of this repository, we recommend:
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1002-find-common-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ To get the most out of this repository, we recommend:
 | [0442-find-all-duplicates-in-an-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1002-find-common-characters](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
