@@ -215,6 +215,7 @@ To get the most out of this repository, we recommend:
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
@@ -327,6 +328,7 @@ To get the most out of this repository, we recommend:
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,8 +339,13 @@ To get the most out of this repository, we recommend:
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
