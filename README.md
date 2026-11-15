@@ -329,6 +329,7 @@ To get the most out of this repository, we recommend:
 | [0145-binary-tree-postorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@ To get the most out of this repository, we recommend:
 | [0145-binary-tree-postorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,4 +350,8 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
