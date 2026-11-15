@@ -217,6 +217,7 @@ To get the most out of this repository, we recommend:
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -333,6 +334,7 @@ To get the most out of this repository, we recommend:
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
@@ -347,6 +349,7 @@ To get the most out of this repository, we recommend:
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Pigeonhole Principle
@@ -361,5 +364,6 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
