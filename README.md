@@ -208,6 +208,7 @@ To get the most out of this repository, we recommend:
 | [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
@@ -223,6 +224,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -325,6 +327,7 @@ To get the most out of this repository, we recommend:
 | [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -338,6 +341,7 @@ To get the most out of this repository, we recommend:
 | [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
