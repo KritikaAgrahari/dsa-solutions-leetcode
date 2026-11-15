@@ -112,6 +112,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -203,6 +204,7 @@ To get the most out of this repository, we recommend:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0133-clone-graph/) | Medium |
@@ -315,6 +317,7 @@ To get the most out of this repository, we recommend:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -322,6 +325,7 @@ To get the most out of this repository, we recommend:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
