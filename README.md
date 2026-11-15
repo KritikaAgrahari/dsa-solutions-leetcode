@@ -206,6 +206,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -322,6 +323,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -334,6 +336,7 @@ To get the most out of this repository, we recommend:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -353,5 +356,6 @@ To get the most out of this repository, we recommend:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
