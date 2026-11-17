@@ -70,6 +70,7 @@ To get the most out of this repository, we recommend:
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0322-coin-change](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -188,6 +189,7 @@ To get the most out of this repository, we recommend:
 | [0070-climbing-stairs](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0322-coin-change](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0322-coin-change/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ To get the most out of this repository, we recommend:
 | [0200-number-of-islands](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Matrix
@@ -366,4 +369,12 @@ To get the most out of this repository, we recommend:
 | [0098-validate-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/KritikaAgrahari/dsa-solutions-leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
